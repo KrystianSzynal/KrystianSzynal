@@ -4,7 +4,7 @@
 💻 Obecnie uczę się języka **C#**  
 📊 Chcę rozwijać się w kierunku **programowania** i **analizy danych**  
 🌱 Na GitHubie dokumentuję moją naukę i projekty  
-📫 Znajdziesz mnie też na [LinkedIn](www.linkedin.com/in/krystian-szynal-53053835a)
+📫 Znajdziesz mnie też na (www.linkedin.com/in/krystian-szynal-53053835a)
 
 ---
 
