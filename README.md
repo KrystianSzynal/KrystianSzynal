@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologie, których się uczę:
 - C#
-- Python (w przyszłości do analizy danych)
+- Python 
 - Git & GitHub
 - SQL (planowane)
 - Podstawy algorytmiki
