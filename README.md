@@ -1,7 +1,7 @@
 # 👋 Cześć! Jestem Krystian
 
 🎓 Student informatyki (studia zaoczne)  
-💻 Obecnie uczę się języka **C#**  
+💻 Obecnie uczę się języka **C#**  i **Python**
 📊 Chcę rozwijać się w kierunku **programowania** i **analizy danych**  
 🌱 Na GitHubie dokumentuję moją naukę i projekty  
 📫 Znajdziesz mnie też na (www.linkedin.com/in/krystian-szynal-53053835a)
